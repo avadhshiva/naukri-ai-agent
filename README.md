@@ -4,6 +4,8 @@ A high-precision, AI-powered automation agent designed to streamline job applica
 
 ## ✨ Features
 
+- **Visual Dashboard**: A beautiful Next.js-powered dashboard to visualize your application history, success rates, and job details.
+![Dashboard Screenshot](./dashboard.png)
 - **AI-Powered Screening**: Uses Groq (Llama-3-70b) to answer job-specific screening questions based on your unique resume.
 - **Dynamic Chatbot Handling**: Automatically interacts with recruitment chatbots, handles multi-turn conversations, and types human-like responses.
 - **Smart "Apply" Detection**: Advanced selectors to identify and interact with various application layouts, including standard forms and "Applied" state detection.
