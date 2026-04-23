@@ -1,0 +1,32 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Specific
+agent/indeed_agent.py
+agent/data/
+agent/sessions/
+*.json
+!config.json
